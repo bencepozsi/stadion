@@ -1,0 +1,27 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Sportszerű Pestiek",
+        "city": "Budapest"
+    },
+    "2": {
+        "id": "2",
+        "name": "Vidéki zsiványok",
+        "city": "Nagykanizsa"
+    },
+    "3": {
+        "id": "3",
+        "name": "Sasok",
+        "city": "Csomád"
+    },
+    "4": {
+        "id": "4",
+        "name": "Vörös Rókák",
+        "city": "Szeged"
+    },
+    "5": {
+        "id": "5",
+        "name": "Hatalmas Óriások",
+        "city": "Budapest"
+    }
+}

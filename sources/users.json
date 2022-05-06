@@ -1,0 +1,44 @@
+{
+    "1": {
+        "id": 1,
+        "username": "hall\u00f3",
+        "email": "envagyok@nincsmail.hu",
+        "password": "123",
+        "permissions": "user"
+    },
+    "2": {
+        "id": 2,
+        "username": "jozsibacsi",
+        "email": "jozsibacsi@drukker.info",
+        "password": "B\u00e1ttya",
+        "permissions": "user"
+    },
+    "3": {
+        "id": 3,
+        "username": "Bence",
+        "email": "envagyok@gmail.com",
+        "password": "FoxDreams345",
+        "permissions": "user"
+    },
+    "4": {
+        "id": 4,
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "admin",
+        "permissions": "admin"
+    },
+    "5": {
+        "id": 5,
+        "username": "NeroThe0ne",
+        "email": "bencepozsi@gmail.com",
+        "password": "asd123",
+        "permissions": "user"
+    },
+    "6": {
+        "id": 6,
+        "username": "marika",
+        "email": "marika@nincsmail.hu",
+        "password": "marika",
+        "permissions": "user"
+    }
+}

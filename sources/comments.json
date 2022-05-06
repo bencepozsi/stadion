@@ -1,0 +1,38 @@
+{
+    "1": {
+        "author": "1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "1",
+        "date": "2021-03-06"
+    },
+    "2": {
+        "author": "2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "1",
+        "date": "2021-03-06"
+    },
+    "3": {
+        "author": "2",
+        "text": "Ti vagytok a legjobbak!",
+        "teamid": "2",
+        "date": "2021-03-06"
+    },
+    "4": {
+        "author": "3",
+        "text": "A r\u00f3k\u00e1k nem csak sz\u00e9pek, de a sportban is a legjobbak!",
+        "teamid": "4",
+        "date": "2022-01-03"
+    },
+    "5": {
+        "author": 2,
+        "text": "Hatalmas volt a legut\u00f3bbi meccs!",
+        "teamid": "5",
+        "date": "2022-01-07"
+    },
+    "6": {
+        "author": 6,
+        "text": "Sajn\u00e1lom, hogy nem siker\u00fclt nyerni a m\u00falt \u00e9vben, de majd viszek nektek j\u00f3 zs\u00edros h\u00faslevest, hogy az idei szezonra legyen el\u00e9g energi\u00e1tok!",
+        "teamid": "5",
+        "date": "2022-01-08"
+    }
+}
